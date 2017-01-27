@@ -10,3 +10,7 @@
 ··* hvort það virkar með 220/110V eða bæði. hversu mörg wött og wött á 12v. single-rail multi-rail og margt fleira.
 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 ··* bera kennsl á vandamálið, koma á kenningu um líklega orsök, prófa kenningu, koma á aðgerðaáætlun, staðfesta virkni, skrá niðurstöður
+7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+··* Opinn spurning leyfir viðskiptavinum að útskýra í eigin orðum. lokuð spurning er oftast já eða nei.
+··* open ended: Hvaða vandamál eru í tölvunni hjá þér?
+··* closed ended: Geturu endurskapað vandamálið?
