@@ -14,3 +14,5 @@
 ··* Opinn spurning leyfir viðskiptavinum að útskýra í eigin orðum. lokuð spurning er oftast já eða nei.
 ··* open ended: Hvaða vandamál eru í tölvunni hjá þér?
 ··* closed ended: Geturu endurskapað vandamálið?
+8. Hvað eru jaðartæki?
+··* tæki notuð til að setja upplýsingar inn og fá upplýsingar úr tölvunni.
