@@ -4,3 +4,5 @@
 ··* ROM stendur fyrir read only memory. aðalega notað fyrir firmware
 3. Hvað er fyrirbyggjandi viðhald?
 ··* varðveita búnað, koma í veg fyrir bilanir með því að skipta/hreinsa notaða hluti
+4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+··* ESD stendur fyrir electro static discharge. þegar unnið er með tölvubúnað er gott að vera með antistatic wrist strap
