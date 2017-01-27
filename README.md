@@ -16,3 +16,5 @@
 ··* closed ended: Geturu endurskapað vandamálið?
 8. Hvað eru jaðartæki?
 ··* tæki notuð til að setja upplýsingar inn og fá upplýsingar úr tölvunni.
+9. Nefndu þrjú dæmi um inntakstæki.
+··* lyklaborð, mús, hljóðnemar
