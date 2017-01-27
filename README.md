@@ -8,4 +8,5 @@
 ··* ESD stendur fyrir electro static discharge. þegar unnið er með tölvubúnað er gott að vera með antistatic wrist strap
 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 ··* hvort það virkar með 220/110V eða bæði. hversu mörg wött og wött á 12v. single-rail multi-rail og margt fleira.
- 
+6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+··* bera kennsl á vandamálið, koma á kenningu um líklega orsök, prófa kenningu, koma á aðgerðaáætlun, staðfesta virkni, skrá niðurstöður
